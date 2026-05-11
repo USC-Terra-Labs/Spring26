@@ -1,3 +1,3 @@
 # Spring26
 
-Upload your code from the Spring 2026 semester!
+Code from the USC Terra Labs Spring 2026 semester!
